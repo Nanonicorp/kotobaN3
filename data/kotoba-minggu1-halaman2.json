@@ -1,218 +1,170 @@
 [
   {
-    "kotoba": "配る",
-    "kana": "くばる",
-    "arti": "mendistribusikan/membagikan",
+    "kotoba": "汗",
+    "kana": "あせ",
+    "arti": "keringat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "濡れる",
+    "kana": "ぬれる",
+    "arti": "basah",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "ちらし",
-    "kana": "ちらし",
-    "arti": "pamflet/leaflet",
+    "kotoba": "マイク",
+    "kana": "まいく",
+    "arti": "mikrofon",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "石油",
-    "kana": "せきゆ",
-    "arti": "minyak bumi",
-    "kategori": "kata benda"
+    "kotoba": "覚める",
+    "kana": "さめる",
+    "arti": "terbangun",
+    "kategori": "kata kerja"
   },
   {
-    "kotoba": "輸入",
-    "kana": "ゆにゅう",
-    "arti": "impor",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "卒業式",
-    "kana": "そつぎょうしき",
-    "arti": "upacara wisuda",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "父母",
-    "kana": "ふぼ",
-    "arti": "orang tua (ayah-ibu)",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "主要",
-    "kana": "しゅよう",
-    "arti": "utama/primary",
+    "kotoba": "怪しい",
+    "kana": "あやしい",
+    "arti": "mencurigakan",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "産業",
-    "kana": "さんぎょう",
-    "arti": "industri",
+    "kotoba": "通知",
+    "kana": "つうち",
+    "arti": "pemberitahuan",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "加熱",
-    "kana": "かねつ",
-    "arti": "pemanasan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "深い",
-    "kana": "ふかい",
-    "arti": "dalam (kedalaman)",
+    "kotoba": "派手",
+    "kana": "はで",
+    "arti": "mencolok",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "感情的",
-    "kana": "かんじょうてき",
-    "arti": "emosional",
+    "kotoba": "禁止",
+    "kana": "きんし",
+    "arti": "larangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "勿体無い",
+    "kana": "もったいない",
+    "arti": "sayang (untuk dibuang)",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "残す",
-    "kana": "のこす",
-    "arti": "menyisakan",
+    "kotoba": "隠す",
+    "kana": "かくす",
+    "arti": "menyembunyikan",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "順番",
-    "kana": "じゅんばん",
-    "arti": "urutan",
+    "kotoba": "一応",
+    "kana": "いちおう",
+    "arti": "sebagai langkah awal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "検討",
+    "kana": "けんとう",
+    "arti": "pertimbangan",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "勤める",
-    "kana": "つとめる",
-    "arti": "bekerja (di suatu instansi)",
+    "kotoba": "企業",
+    "kana": "きぎょう",
+    "arti": "perusahaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "バックする",
+    "kana": "ばっくする",
+    "arti": "mundur/membalik",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "左右",
-    "kana": "さゆう",
-    "arti": "kiri-kanan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "負ける",
-    "kana": "まける",
-    "arti": "kalah",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "過去",
-    "kana": "かこ",
-    "arti": "masa lalu",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "逆",
-    "kana": "ぎゃく",
-    "arti": "terbalik/kebalikan",
+    "kotoba": "一流",
+    "kana": "いちりゅう",
+    "arti": "kelas satu",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "運休",
-    "kana": "うんきゅう",
-    "arti": "penundaan operasi (transportasi)",
+    "kotoba": "選手",
+    "kana": "せんしゅ",
+    "arti": "pemain/atlet",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "大雪",
-    "kana": "おおゆき",
-    "arti": "salju lebat",
+    "kotoba": "ようやく",
+    "kana": "ようやく",
+    "arti": "akhirnya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "面接",
+    "kana": "めんせつ",
+    "arti": "wawancara",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "文句",
-    "kana": "もんく",
-    "arti": "keluhan/protes",
+    "kotoba": "誕生日",
+    "kana": "たんじょうび",
+    "arti": "ulang tahun",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "試合",
-    "kana": "しあい",
-    "arti": "pertandingan",
+    "kotoba": "説明会",
+    "kana": "せつめいかい",
+    "arti": "acara penjelasan",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "資料",
-    "kana": "しりょう",
-    "arti": "materi/dokumen referensi",
+    "kotoba": "規則",
+    "kana": "きそく",
+    "arti": "peraturan",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "銀行",
-    "kana": "ぎんこう",
-    "arti": "bank",
+    "kotoba": "シャツ",
+    "kana": "しゃつ",
+    "arti": "kemeja",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "川",
-    "kana": "かわ",
-    "arti": "sungai",
+    "kotoba": "夜中",
+    "kana": "よなか",
+    "arti": "tengah malam",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "生徒",
-    "kana": "せいと",
-    "arti": "siswa",
+    "kotoba": "冗談",
+    "kana": "じょうだん",
+    "arti": "candaan",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "町",
-    "kana": "まち",
-    "arti": "kota/kawasan perkotaan",
+    "kotoba": "結果",
+    "kana": "けっか",
+    "arti": "hasil",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "電車",
-    "kana": "でんしゃ",
-    "arti": "kereta listrik",
+    "kotoba": "コート",
+    "kana": "こーと",
+    "arti": "mantel",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "調べる",
-    "kana": "しらべる",
-    "arti": "meneliti/memeriksa",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "食べる",
-    "kana": "たべる",
-    "arti": "makan",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "ポケット",
-    "kana": "ぽけっと",
-    "arti": "saku",
+    "kotoba": "たんす",
+    "kana": "たんす",
+    "arti": "lemari pakaian",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "ページ",
-    "kana": "ぺーじ",
-    "arti": "halaman",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "例",
-    "kana": "れい",
-    "arti": "contoh",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "朝",
-    "kana": "あさ",
-    "arti": "pagi",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "見る",
-    "kana": "みる",
-    "arti": "melihat",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "産業",
-    "kana": "さんぎょう",
-    "arti": "industri",
+    "kotoba": "パーティー",
+    "kana": "ぱーてぃー",
+    "arti": "pesta",
     "kategori": "kata benda"
   }
 ]
