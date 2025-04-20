@@ -1,0 +1,218 @@
+[
+  {
+    "kotoba": "配る",
+    "kana": "くばる",
+    "arti": "mendistribusikan/membagikan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ちらし",
+    "kana": "ちらし",
+    "arti": "pamflet/leaflet",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "石油",
+    "kana": "せきゆ",
+    "arti": "minyak bumi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "輸入",
+    "kana": "ゆにゅう",
+    "arti": "impor",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "卒業式",
+    "kana": "そつぎょうしき",
+    "arti": "upacara wisuda",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "父母",
+    "kana": "ふぼ",
+    "arti": "orang tua (ayah-ibu)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "主要",
+    "kana": "しゅよう",
+    "arti": "utama/primary",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "産業",
+    "kana": "さんぎょう",
+    "arti": "industri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "加熱",
+    "kana": "かねつ",
+    "arti": "pemanasan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "深い",
+    "kana": "ふかい",
+    "arti": "dalam (kedalaman)",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "感情的",
+    "kana": "かんじょうてき",
+    "arti": "emosional",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "残す",
+    "kana": "のこす",
+    "arti": "menyisakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "順番",
+    "kana": "じゅんばん",
+    "arti": "urutan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "勤める",
+    "kana": "つとめる",
+    "arti": "bekerja (di suatu instansi)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "左右",
+    "kana": "さゆう",
+    "arti": "kiri-kanan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "負ける",
+    "kana": "まける",
+    "arti": "kalah",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "過去",
+    "kana": "かこ",
+    "arti": "masa lalu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "逆",
+    "kana": "ぎゃく",
+    "arti": "terbalik/kebalikan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "運休",
+    "kana": "うんきゅう",
+    "arti": "penundaan operasi (transportasi)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大雪",
+    "kana": "おおゆき",
+    "arti": "salju lebat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "文句",
+    "kana": "もんく",
+    "arti": "keluhan/protes",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "試合",
+    "kana": "しあい",
+    "arti": "pertandingan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "資料",
+    "kana": "しりょう",
+    "arti": "materi/dokumen referensi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "銀行",
+    "kana": "ぎんこう",
+    "arti": "bank",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "川",
+    "kana": "かわ",
+    "arti": "sungai",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "生徒",
+    "kana": "せいと",
+    "arti": "siswa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "町",
+    "kana": "まち",
+    "arti": "kota/kawasan perkotaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電車",
+    "kana": "でんしゃ",
+    "arti": "kereta listrik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "調べる",
+    "kana": "しらべる",
+    "arti": "meneliti/memeriksa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "食べる",
+    "kana": "たべる",
+    "arti": "makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ポケット",
+    "kana": "ぽけっと",
+    "arti": "saku",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ページ",
+    "kana": "ぺーじ",
+    "arti": "halaman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "例",
+    "kana": "れい",
+    "arti": "contoh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "朝",
+    "kana": "あさ",
+    "arti": "pagi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "見る",
+    "kana": "みる",
+    "arti": "melihat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "産業",
+    "kana": "さんぎょう",
+    "arti": "industri",
+    "kategori": "kata benda"
+  }
+]
