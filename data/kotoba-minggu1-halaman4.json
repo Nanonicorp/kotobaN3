@@ -1,0 +1,182 @@
+[
+  {
+    "kotoba": "話す",
+    "kana": "はなす",
+    "arti": "berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "治る",
+    "kana": "なおる",
+    "arti": "sembuh",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "一日中",
+    "kana": "いちにちじゅう",
+    "arti": "sepanjang hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "漢字",
+    "kana": "かんじ",
+    "arti": "kanji",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "少ない",
+    "kana": "すくない",
+    "arti": "sedikit",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "捨てる",
+    "kana": "すてる",
+    "arti": "membuang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "アンケート調査",
+    "kana": "あんけーとちょうさ",
+    "arti": "survei kuesioner",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "消費者",
+    "kana": "しょうひしゃ",
+    "arti": "konsumen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "アイディア",
+    "kana": "あいであ",
+    "arti": "ide",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ドア",
+    "kana": "どあ",
+    "arti": "pintu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電話が鳴る",
+    "kana": "でんわがなる",
+    "arti": "telepon berdering",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "込む",
+    "kana": "こむ",
+    "arti": "padat/ramai",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "予定",
+    "kana": "よてい",
+    "arti": "rencana",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "文化",
+    "kana": "ぶんか",
+    "arti": "budaya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "政治",
+    "kana": "せいじ",
+    "arti": "politik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "興味",
+    "kana": "きょうみ",
+    "arti": "ketertarikan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "留学",
+    "kana": "りゅうがく",
+    "arti": "studi di luar negeri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "経験",
+    "kana": "けいけん",
+    "arti": "pengalaman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "部長",
+    "kana": "ぶちょう",
+    "arti": "kepala bagian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "忙しい",
+    "kana": "いそがしい",
+    "arti": "sibuk",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "辛い",
+    "kana": "からい",
+    "arti": "pedas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "文句を言う",
+    "kana": "もんくをいう",
+    "arti": "mengeluh",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "説明書",
+    "kana": "せつめいしょ",
+    "arti": "buku petunjuk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "海外旅行",
+    "kana": "かいがいりょこう",
+    "arti": "perjalanan luar negeri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "日本人",
+    "kana": "にほんじん",
+    "arti": "orang Jepang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "書ける",
+    "kana": "かける",
+    "arti": "bisa menulis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "昔",
+    "kana": "むかし",
+    "arti": "masa lalu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "写真",
+    "kana": "しゃしん",
+    "arti": "foto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "考え",
+    "kana": "かんがえ",
+    "arti": "pemikiran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "開ける",
+    "kana": "あける",
+    "arti": "membuka",
+    "kategori": "kata kerja"
+  }
+]
