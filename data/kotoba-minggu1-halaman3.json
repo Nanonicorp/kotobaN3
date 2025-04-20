@@ -1,0 +1,188 @@
+[
+  {
+    "kotoba": "久しぶり",
+    "kana": "ひさしぶり",
+    "arti": "lama tidak",
+    "kategori": "ekspresi umum"
+  },
+  {
+    "kotoba": "大学時代",
+    "kana": "だいがくじだい",
+    "arti": "masa kuliah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "友人",
+    "kana": "ゆうじん",
+    "arti": "teman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "楽しい",
+    "kana": "たのしい",
+    "arti": "menyenangkan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "過ごす",
+    "kana": "すごす",
+    "arti": "menghabiskan waktu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "スーパー",
+    "kana": "すーぱー",
+    "arti": "supermarket",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "歩いて",
+    "kana": "あるいて",
+    "arti": "berjalan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "便利",
+    "kana": "べんり",
+    "arti": "praktis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "運転手",
+    "kana": "うんてんしゅ",
+    "arti": "sopir",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "働く",
+    "kana": "はたらく",
+    "arti": "bekerja",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "寝坊",
+    "kana": "ねぼう",
+    "arti": "terlambat bangun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "遅刻",
+    "kana": "ちこく",
+    "arti": "terlambat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "結局",
+    "kana": "けっきょく",
+    "arti": "pada akhirnya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "思い出す",
+    "kana": "おもいだす",
+    "arti": "mengingat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "卒業後",
+    "kana": "そつぎょうご",
+    "arti": "setelah lulus",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "決める",
+    "kana": "きめる",
+    "arti": "memutuskan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "セーター",
+    "kana": "せーたー",
+    "arti": "sweter",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ぴったり",
+    "kana": "ぴったり",
+    "arti": "pas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "レポート",
+    "kana": "れぽーと",
+    "arti": "laporan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "夏祭り",
+    "kana": "なつまつり",
+    "arti": "festival musim panas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "続ける",
+    "kana": "つづける",
+    "arti": "melanjutkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "クッキー",
+    "kana": "くっきー",
+    "arti": "kue kering",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "会議室",
+    "kana": "かいぎしつ",
+    "arti": "ruang rapat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "雑誌",
+    "kana": "ざっし",
+    "arti": "majalah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "忘れる",
+    "kana": "わすれる",
+    "arti": "melupakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "スポーツ",
+    "kana": "すぽーつ",
+    "arti": "olahraga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ゴルフ",
+    "kana": "ごるふ",
+    "arti": "golf",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "パン屋",
+    "kana": "ぱんや",
+    "arti": "toko roti",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "研究室",
+    "kana": "けんきゅうしつ",
+    "arti": "laboratorium",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "発表",
+    "kana": "はっぴょう",
+    "arti": "presentasi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "相談",
+    "kana": "そうだん",
+    "arti": "konsultasi",
+    "kategori": "kata benda"
+  }
+]
