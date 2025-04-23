@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function () {
             row.querySelector('.action-btn').addEventListener('click', (e) => {
                 const targetRow = e.target.closest('tr');
                 const cells = targetRow.querySelectorAll('td');
-                [1, 2, 3].forEach(i => cells[i].classList.toggle('blurred'));
+                [0, 1, 2].forEach(i => cells[i].classList.toggle('blurred'));
                 e.target.classList.toggle('fa-eye');
                 e.target.classList.toggle('fa-eye-slash');
             });
