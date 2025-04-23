@@ -1,72 +1,247 @@
 [
   {
-    "kotoba": "配る",
-    "kana": "くばる",
-    "arti": "mendistribusikan/membagikan",
-    "kategori": "kata kerja",
-    "contoh": "資料を皆に配ってください。\nShiryō o minna ni kubatte kudasai.\nTolong bagikan materi ke semua orang.\n\n彼は笑顔でチラシを配っていた。\nKare wa egao de chirashi o kubatte ita.\nDia membagikan selebaran dengan senyuman."
-  },
-  {
     "kotoba": "ちらし",
     "kana": "ちらし",
     "arti": "pamflet/leaflet",
     "kategori": "kata benda",
-    "contoh": "このちらしの店に行ってみたい。\nKono chirashi no mise ni itte mitai.\nSaya ingin mencoba ke toko di leaflet ini.\n\n駅前でイベントのちらしが配られていた。\nEkimae de ibento no chirashi ga kubararete ita.\nSelebaran event sedang dibagikan di depan stasiun."
+    "contoh": "駅でちらしが配られていた。\nEki de chirashi ga kuburarete ita.\nAda pamflet yang dibagikan di stasiun.\n\nこのちらしを見てイベントを知りました。\nKono chirashi o mite ibento o shirimashita.\nSaya tahu tentang acara ini dari leaflet ini.\n\nスーパーのちらしで特売品をチェックする。\nSūpā no chirashi de tokubaihin o chekku suru.\nSaya mengecek barang diskon di pamflet supermarket."
   },
   {
     "kotoba": "石油",
     "kana": "せきゆ",
     "arti": "minyak bumi",
     "kategori": "kata benda",
-    "contoh": "石油は中東から輸入されている。\nSekiyu wa Chūtō kara yunyū sarete iru.\nMinyak bumi diimpor dari Timur Tengah.\n\n石油ストーブで暖を取る。\nSekiyu sutōbu de dan o toru.\nMenghangatkan diri dengan kompor minyak."
+    "contoh": "石油価格が上がっている。\nSekiyu kakaku ga agatte iru.\nHarga minyak bumi sedang naik.\n\nこの地域では石油が採れる。\nKono chiiki de wa sekiyu ga toreru.\nDi daerah ini bisa didapatkan minyak bumi.\n\n石油ストーブで暖をとる。\nSekiyu sutōbu de dan o toru.\nMenghangatkan diri dengan kompor minyak."
   },
   {
     "kotoba": "輸入",
     "kana": "ゆにゅう",
     "arti": "impor",
     "kategori": "kata benda",
-    "contoh": "輸入品の検査が厳しい。\nYunyū-hin no kensa ga kibishii.\nPemeriksaan barang impor sangat ketat.\n\nこのコーヒーはブラジルから輸入した。\nKono kōhī wa Burajiru kara yunyū shita.\nKopi ini diimpor dari Brasil."
+    "contoh": "このワインはフランスから輸入された。\nKono wain wa Furansu kara yunyū sareta.\nAnggur ini diimpor dari Prancis.\n\n輸入品は関税がかかる。\nYunyūhin wa kanzei ga kakaru.\nBarang impor dikenakan bea masuk.\n\n輸入業を営んでいる。\nYunyūgyō o itonande iru.\nSaya menjalankan bisnis impor."
   },
   {
     "kotoba": "卒業式",
     "kana": "そつぎょうしき",
     "arti": "upacara wisuda",
     "kategori": "kata benda",
-    "contoh": "卒業式で袴を着た。\nSotsugyō-shiki de hakama o kita.\nMemakai hakama di upacara wisuda.\n\n卒業式の練習が始まった。\nSotsugyō-shiki no renshū ga hajimatta.\nLatihan upacara wisuda telah dimulai."
+    "contoh": "来月、卒業式が行われます。\nRaigetsu, sotsugyōshiki ga okonawaremasu.\nBulan depan akan diadakan upacara wisuda.\n\n卒業式でスピーチをすることになった。\nSotsugyōshiki de supīchi o suru koto ni natta.\nSaya harus berpidato di acara wisuda.\n\n卒業式の写真をアルバムに貼った。\nSotsugyōshiki no shashin o arubamu ni hatta.\nSaya menempel foto wisuda di album."
   },
   {
     "kotoba": "父母",
     "kana": "ふぼ",
     "arti": "orang tua (ayah-ibu)",
     "kategori": "kata benda",
-    "contoh": "父母へのプレゼントを選ぶ。\nFubo e no purezento o erabu.\nMemilih hadiah untuk orang tua.\n\n父母の結婚記念日です。\nFubo no kekkon kinenbi desu.\nHari jadi pernikahan orang tua."
-  },
-  {
-    "kotoba": "主要",
-    "kana": "しゅよう",
-    "arti": "utama/primary",
-    "kategori": "kata sifat",
-    "contoh": "主要メンバーが集まった。\nShuyō menbā ga atsumatta.\nAnggota utama telah berkumpul.\n\nこれが主要な問題点だ。\nKore ga shuyōna mondai-ten da.\nIni adalah masalah utama."
+    "contoh": "父母の日には感謝を伝えたい。\nFubo no hi ni wa kansha o tsutaetai.\nDi hari orang tua, saya ingin menyampaikan terima kasih.\n\n父母と相談して進路を決めた。\nFubo to sōdan shite shinro o kimeta.\nSaya memutuskan jalan hidup setelah berdiskusi dengan orang tua.\n\n父母会が明日開催されます。\nFubokai ga ashita kaisai saremasu.\nPertemuan orang tua akan diadakan besok."
   },
   {
     "kotoba": "産業",
     "kana": "さんぎょう",
     "arti": "industri",
     "kategori": "kata benda",
-    "contoh": "地元の産業を支える。\nJimoto no sangyō o sasaeru.\nMendukung industri lokal.\n\n日本の自動車産業は有名だ。\nNihon no jidōsha sangyō wa yūmei da.\nIndustri otomotif Jepang terkenal."
+    "contoh": "この町の主要産業は漁業だ。\nKono machi no shuyō sangyō wa gyogyō da.\nIndustri utama kota ini adalah perikanan.\n\n産業革命は社会を大きく変えた。\nSangyō kakumei wa shakai o ōkiku kaeta.\nRevolusi industri mengubah masyarakat secara besar-besaran.\n\n新しい産業が生まれている。\nAtarashii sangyō ga umarete iru.\nIndustri baru sedang lahir."
   },
   {
     "kotoba": "加熱",
     "kana": "かねつ",
     "arti": "pemanasan",
     "kategori": "kata benda",
-    "contoh": "電子レンジで加熱する。\nDenshi renji de kanetsu suru.\nMemanasakan dengan microwave.\n\n議論が加熱してきた。\nGiron ga kanetsu shite kita.\nDiskusi semakin memanas."
+    "contoh": "電子レンジで加熱してください。\nDenshi renji de kanetsu shite kudasai.\nHarap dipanaskan di microwave.\n\n議論が加熱してきた。\nGiron ga kanetsu shite kita.\nPerdebatan semakin memanas.\n\n加熱処理が必要な食品だ。\nKanetsu shori ga hitsuyōna shokuhin da.\nIni makanan yang perlu diproses dengan pemanasan."
+  },
+  {
+    "kotoba": "順番",
+    "kana": "じゅんばん",
+    "arti": "urutan",
+    "kategori": "kata benda",
+    "contoh": "順番を守って並んでください。\nJunban o mamotte narande kudasai.\nHarap mengantri dengan menjaga urutan.\n\n私の順番はまだ先です。\nWatashi no junban wa mada saki desu.\nGiliran saya masih lama.\n\n順番が来たら教えてください。\nJunban ga kitara oshiete kudasai.\nTolong beri tahu saya ketika giliran saya tiba."
+  },
+  {
+    "kotoba": "左右",
+    "kana": "さゆう",
+    "arti": "kiri-kanan",
+    "kategori": "kata benda",
+    "contoh": "左右を確認してから渡ろう。\nSayū o kakunin shite kara watarou.\nMari menyeberang setelah memeriksa kiri-kanan.\n\n左右対称のデザインが美しい。\nSayū taishō no dezain ga utsukushii.\nDesain simetris kiri-kanan itu indah.\n\n左右の靴が反対になっていた。\nSayū no kutsu ga hantai ni natte ita.\nSepatu kiri-kanan terbalik."
+  },
+  {
+    "kotoba": "過去",
+    "kana": "かこ",
+    "arti": "masa lalu",
+    "kategori": "kata benda",
+    "contoh": "過去の失敗から学ぶことが大切だ。\nKako no shippai kara manabu koto ga taisetsu da.\nPenting untuk belajar dari kesalahan masa lalu.\n\n過去5年間のデータを分析した。\nKako 5-nenkan no dēta o bunseki shita.\nSaya menganalisis data 5 tahun terakhir.\n\n過去を振り返ると懐かしい。\nKako o furikaeru to natsukashii.\nMelihat ke masa lalu terasa nostalgik."
+  },
+  {
+    "kotoba": "運休",
+    "kana": "うんきゅう",
+    "arti": "penundaan operasi (transportasi)",
+    "kategori": "kata benda",
+    "contoh": "台風で電車が運休になった。\nTaifū de densha ga unkyū ni natta.\nKereta berhenti beroperasi karena topan.\n\n運休情報を確認してから出かける。\nUnkyū jōhō o kakunin shite kara dekakeru.\nSaya pergi setelah memeriksa info penundaan operasi.\n\n大雪のためバスが運休しています。\nŌyuki no tame basu ga unkyū shite imasu.\nBus berhenti beroperasi karena salju lebat."
+  },
+  {
+    "kotoba": "大雪",
+    "kana": "おおゆき",
+    "arti": "salju lebat",
+    "kategori": "kata benda",
+    "contoh": "明日は大雪の予報が出ている。\nAshita wa ōyuki no yohō ga dete iru.\nBesok diperkirakan akan turun salju lebat.\n\n大雪で交通が麻痺した。\nŌyuki de kōtsū ga mahi shita.\nTransportasi lumpuh karena salju lebat.\n\n昨年の大雪は記録的だった。\nSakunen no ōyuki wa kirokuteki datta.\nSalju lebat tahun lalu bersifat rekaman."
+  },
+  {
+    "kotoba": "文句",
+    "kana": "もんく",
+    "arti": "keluhan/protes",
+    "kategori": "kata benda",
+    "contoh": "商品に文句がある場合は連絡してください。\nShōhin ni monku ga aru baai wa renraku shite kudasai.\nJika ada keluhan tentang produk, harap hubungi kami.\n\nいつも文句ばかり言っている。\nItsumo monku bakari itte iru.\nSelalu mengeluh terus.\n\n正当な文句は受け付けます。\nSeitōna monku wa uketsukemasu.\nKami menerima keluhan yang sah."
+  },
+  {
+    "kotoba": "試合",
+    "kana": "しあい",
+    "arti": "pertandingan",
+    "kategori": "kata benda",
+    "contoh": "今日は大切な試合がある。\nKyō wa taisetsuna shiai ga aru.\nHari ini ada pertandingan penting.\n\n試合に勝つために全力を尽くす。\nShiai ni katsu tame ni zenryoku o tsukusu.\nSaya akan memberikan yang terbaik untuk memenangkan pertandingan.\n\n試合の結果に満足している。\nShiai no kekka ni manzoku shite iru.\nSaya puas dengan hasil pertandingan."
+  },
+  {
+    "kotoba": "資料",
+    "kana": "しりょう",
+    "arti": "materi/dokumen referensi",
+    "kategori": "kata benda",
+    "contoh": "会議の資料を準備しておいてください。\nKaigi no shiryō o junbi shite oite kudasai.\nTolong siapkan materi rapat sebelumnya.\n\nこの資料を参考にレポートを書いた。\nKono shiryō o sankō ni repōto o kaita.\nSaya menulis laporan dengan referensi dari materi ini.\n\n資料をよく読んでから質問してください。\nShiryō o yoku yonde kara shitsumon shite kudasai.\nHarap baca materi dengan seksama sebelum bertanya."
+  },
+  {
+    "kotoba": "銀行",
+    "kana": "ぎんこう",
+    "arti": "bank",
+    "kategori": "kata benda",
+    "contoh": "銀行でお金をおろしてきた。\nGinkō de okane o oroshite kita.\nSaya mengambil uang di bank.\n\n銀行の営業時間は平日9時から3時までだ。\nGinkō no eigyō jikan wa heijitsu ku-ji kara san-ji made da.\nJam operasi bank adalah hari kerja pukul 9 sampai 3.\n\n新しい支店が銀行にできた。\nAtarashii shiten ga ginkō ni dekita.\nCabang baru telah dibuka di bank."
+  },
+  {
+    "kotoba": "川",
+    "kana": "かわ",
+    "arti": "sungai",
+    "kategori": "kata benda",
+    "contoh": "この川でよく釣りをします。\nKono kawa de yoku tsuri o shimasu.\nSaya sering memancing di sungai ini.\n\n川の水がきれいになった。\nKawa no mizu ga kirei ni natta.\nAir sungai menjadi bersih.\n\n大雨で川が氾濫しそうだ。\nŌame de kawa ga hanran shisō da.\nSungai hampir meluap karena hujan deras."
+  },
+  {
+    "kotoba": "生徒",
+    "kana": "せいと",
+    "arti": "siswa",
+    "kategori": "kata benda",
+    "contoh": "このクラスには30人の生徒がいる。\nKono kurasu ni wa 30-nin no seito ga iru.\nAda 30 siswa di kelas ini.\n\n生徒たちは真剣に勉強している。\nSeito-tachi wa shinken ni benkyō shite iru.\nPara siswa belajar dengan serius.\n\n卒業した生徒が訪ねてきた。\nSotsugyō shita seito ga tazunete kita.\nSeorang siswa yang telah lulus datang berkunjung."
+  },
+  {
+    "kotoba": "町",
+    "kana": "まち",
+    "arti": "kota/kawasan perkotaan",
+    "kategori": "kata benda",
+    "contoh": "この町に引っ越してきたばかりです。\nKono machi ni hikkoshite kita bakari desu.\nSaya baru saja pindah ke kota ini.\n\n町の中心部はにぎやかだ。\nMachi no chūshinbu wa nigiyaka da.\nPusat kota sangat ramai.\n\nこの町の名物は何ですか？\nKono machi no meibutsu wa nan desu ka?\nApa makanan khas kota ini?"
+  },
+  {
+    "kotoba": "電車",
+    "kana": "でんしゃ",
+    "arti": "kereta listrik",
+    "kategori": "kata benda",
+    "contoh": "電車で通勤しています。\nDensha de tsūkin shite imasu.\nSaya berangkat kerja dengan kereta.\n\n電車が遅れて約束に間に合わなかった。\nDensha ga okurete yakusoku ni maniawanakatta.\nSaya tidak tepat waktu janji karena kereta terlambat.\n\n次の電車は10分後に来ます。\nTsugi no densha wa 10-pun go ni kimasu.\nKereta berikutnya datang 10 menit lagi."
+  },
+  {
+    "kotoba": "ポケット",
+    "kana": "ぽけっと",
+    "arti": "saku",
+    "kategori": "kata benda",
+    "contoh": "ポケットに手を入れて歩かないでください。\nPoketto ni te o irete arukanai de kudasai.\nJangan berjalan dengan tangan di saku.\n\nポケットから財布を落としてしまった。\nPoketto kara saifu o otoshite shimatta.\nSaya menjatuhkan dompet dari saku.\n\nこのジャケットはポケットが多い。\nKono jaketto wa poketto ga ōi.\nJaket ini memiliki banyak saku."
+  },
+  {
+    "kotoba": "ページ",
+    "kana": "ぺーじ",
+    "arti": "halaman",
+    "kategori": "kata benda",
+    "contoh": "教科書の25ページを開いてください。\nKyōkasho no 25-pēji o hiraite kudasai.\nTolong buka halaman 25 buku teks.\n\nこの本はページが抜けている。\nKono hon wa pēji ga nukete iru.\nAda halaman yang hilang dari buku ini.\n\nウェブページを更新しました。\nWebu pēji o kōshin shimashita.\nSaya telah memperbarui halaman web."
+  },
+  {
+    "kotoba": "例",
+    "kana": "れい",
+    "arti": "contoh",
+    "kategori": "kata benda",
+    "contoh": "具体的な例を挙げて説明してください。\nGutaitekina rei o agete setsumei shite kudasai.\nTolong jelaskan dengan memberikan contoh konkret.\n\nこのような例は珍しい。\nKono yōna rei wa mezurashii.\nContoh seperti ini langka.\n\n過去の例から学ぶことが大切だ。\nKako no rei kara manabu koto ga taisetsu da.\nPenting untuk belajar dari contoh di masa lalu."
+  },
+  {
+    "kotoba": "朝",
+    "kana": "あさ",
+    "arti": "pagi",
+    "kategori": "kata benda",
+    "contoh": "朝6時に起きます。\nAsa roku-ji ni okimasu.\nSaya bangun pukul 6 pagi.\n\n朝の空気は気持ちがいい。\nAsa no kūki wa kimochi ga ii.\nUdara pagi terasa menyegarkan.\n\n明日の朝、電話します。\nAshita no asa, denwa shimasu.\nSaya akan menelepon besok pagi."
+  },
+  {
+    "kotoba": "配る",
+    "kana": "くばる",
+    "arti": "mendistribusikan/membagikan",
+    "kategori": "kata kerja",
+    "contoh": "テスト用紙を生徒に配った。\nTesuto yōshi o seito ni kubatta.\nSaya membagikan lembar ujian kepada siswa.\n\n街でチラシを配るアルバイトをしている。\nMachi de chirashi o kubaru arubaito o shite iru.\nSaya bekerja paruh waktu membagikan selebaran di jalan.\n\n平等にケーキを配ってください。\nByōdō ni kēki o watte kudasai.\nTolong bagikan kue secara merata."
+  },
+  {
+    "kotoba": "残す",
+    "kana": "のこす",
+    "arti": "menyisakan",
+    "kategori": "kata kerja",
+    "contoh": "料理を残さず全部食べなさい。\nRyōri o nokosazu zenbu tabenasai.\nMakanlah semua makanan tanpa menyisakan.\n\n歴史に名を残す偉人だ。\nRekishi ni na o nokosu ijin da.\nDia adalah orang besar yang meninggalkan nama dalam sejarah.\n\nメモを残しておいてくれてありがとう。\nMemo o nokoshite oite kurete arigatō.\nTerima kasih telah meninggalkan catatan untuk saya."
+  },
+  {
+    "kotoba": "勤める",
+    "kana": "つとめる",
+    "arti": "bekerja (di suatu instansi)",
+    "kategori": "kata kerja",
+    "contoh": "銀行に勤めています。\nGinkō ni tsutomete imasu.\nSaya bekerja di bank.\n\nこの会社に10年勤めている。\nKono kaisha ni 10-nen tsutomete iru.\nSaya telah bekerja di perusahaan ini selama 10 tahun.\n\n父は公務員として勤めていた。\nChichi wa kōmuin to shite tsutomete ita.\nAyah saya bekerja sebagai pegawai negeri."
+  },
+  {
+    "kotoba": "負ける",
+    "kana": "まける",
+    "arti": "kalah",
+    "kategori": "kata kerja",
+    "contoh": "試合に負けて悔しかった。\nShiai ni makete kuyashikatta.\nSaya kesal karena kalah dalam pertandingan.\n\n彼には議論で負けた。\nKare ni wa giron de maketa.\nSaya kalah dalam debat dengannya.\n\n誘惑に負けて甘いものを食べてしまった。\nYūwaku ni makete amaimono o tabete shimatta.\nSaya kalah pada godaan dan makan makanan manis."
+  },
+  {
+    "kotoba": "調べる",
+    "kana": "しらべる",
+    "arti": "meneliti/memeriksa",
+    "kategori": "kata kerja",
+    "contoh": "わからない言葉を辞書で調べた。\nWakaranai kotoba o jisho de shirabeta.\nSaya mencari kata yang tidak saya mengerti di kamus.\n\n警察が事件を調べている。\nKeisatsu ga jiken o shirabete iru.\nPolisi sedang menyelidiki kasus tersebut.\n\nインターネットで情報を調べる。\nIntānetto de jōhō o shiraberu.\nSaya mencari informasi di internet."
+  },
+  {
+    "kotoba": "食べる",
+    "kana": "たべる",
+    "arti": "makan",
+    "kategori": "kata kerja",
+    "contoh": "毎朝パンを食べます。\nMaiasa pan o tabemasu.\nSaya makan roti setiap pagi.\n\n熱があるのであまり食べられない。\nNetsu ga aru node amari taberarenai.\nSaya tidak bisa makan banyak karena demam.\n\n外で食事を食べに行きましょう。\nSoto de shokuji o tabe ni ikimashō.\nMari kita pergi makan di luar."
+  },
+  {
+    "kotoba": "見る",
+    "kana": "みる",
+    "arti": "melihat",
+    "kategori": "kata kerja",
+    "contoh": "昨日、新しい映画を見た。\nKinō, atarashii eiga o mita.\nKemarin saya menonton film baru.\n\nこの写真を見てください。\nKono shashin o mite kudasai.\nTolong lihat foto ini.\n\nテレビでニュースを見ている。\nTerebi de nyūsu o mite iru.\nSaya sedang menonton berita di TV."
+  },
+  {
+    "kotoba": "主要",
+    "kana": "しゅよう",
+    "arti": "utama/primary",
+    "kategori": "kata sifat",
+    "contoh": "これが主要な問題点です。\nKore ga shuyōna mondaiten desu.\nIni adalah masalah utama.\n\n主要なメンバーが集まった。\nShuyōna menbā ga atsumatta.\nAnggota utama telah berkumpul.\n\nこの町の主要産業は何ですか？\nKono machi no shuyō sangyō wa nan desu ka?\nApa industri utama kota ini?"
   },
   {
     "kotoba": "深い",
     "kana": "ふかい",
     "arti": "dalam (kedalaman)",
     "kategori": "kata sifat",
-    "contoh": "深い森に迷い込んだ。\nFukai mori ni mayoikonda.\nTerhilang di hutan yang dalam.\n\n彼の知識は本当に深い。\nKare no chishiki wa hontō ni fukai.\nPengetahuannya sangat mendalam."
+    "contoh": "この川はとても深い。\nKono kawa wa totemo fukai.\nSungai ini sangat dalam.\n\n彼とは深い友情で結ばれている。\nKare to wa fukai yūjō de musubarete iru.\nSaya terikat dengannya dalam persahabatan yang dalam.\n\n問題は思ったより深かった。\nMondai wa omotta yori fukakatta.\nMasalahnya lebih dalam dari yang saya kira."
+  },
+  {
+    "kotoba": "感情的",
+    "kana": "かんじょうてき",
+    "arti": "emosional",
+    "kategori": "kata sifat",
+    "contoh": "彼女はすぐ感情的になる。\nKanojo wa sugu kanjōteki ni naru.\nDia mudah menjadi emosional.\n\n感情的にならずに冷静に話そう。\nKanjōteki ni narazu ni reisei ni hanasō.\nMari bicara dengan tenang tanpa menjadi emosional.\n\nその決定は感情的だったかもしれない。\nSono kettei wa kanjōteki datta kamoshirenai.\nKeputusan itu mungkin bersifat emosional."
+  },
+  {
+    "kotoba": "逆",
+    "kana": "ぎゃく",
+    "arti": "terbalik/kebalikan",
+    "kategori": "kata sifat",
+    "contoh": "シャツを逆に着てしまった。\nShatsu o gyaku ni kite shimatta.\nSaya memakai kemeja terbalik.\n\n彼の言うことは逆に受け取った方がいい。\nKare no iu koto wa gyaku ni uketotta hō ga ii.\nLebih baik menafsirkan perkataannya secara terbalik.\n\n結果は予想と逆だった。\nKekka wa yosō to gyaku datta.\nHasilnya berkebalikan dengan perkiraan."
   }
 ]
