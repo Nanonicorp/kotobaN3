@@ -137,9 +137,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function getColumnIndex(columnName) {
         const columns = {
-            'kotoba': 2,
-            'kana': 3,
-            'arti': 4
+            'kotoba': 1,
+            'kana': 2,
+            'arti': 3
         };
         return columns[columnName] || 0;
     }
