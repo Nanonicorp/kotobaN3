@@ -1,0 +1,278 @@
+[
+  {
+    "kotoba": "我慢",
+    "kana": "がまん",
+    "arti": "menahan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "足",
+    "kana": "あし",
+    "arti": "kaki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "痛み",
+    "kana": "いたみ",
+    "arti": "rasa sakit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "走ってきた",
+    "kana": "はしってきた",
+    "arti": "berlari (dalam bentuk lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "うらやましい",
+    "kana": "うらやましい",
+    "arti": "iri",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "歌",
+    "kana": "うた",
+    "arti": "lagu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "上手",
+    "kana": "じょうず",
+    "arti": "terampil",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "消極的",
+    "kana": "しょうきょくてき",
+    "arti": "tidak aktif",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "会議",
+    "kana": "かいぎ",
+    "arti": "rapat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "自分",
+    "kana": "じぶん",
+    "arti": "diri sendiri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "意見",
+    "kana": "いけん",
+    "arti": "pendapat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "経由",
+    "kana": "けいゆ",
+    "arti": "melalui",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "駅",
+    "kana": "えき",
+    "arti": "stasiun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "出発",
+    "kana": "しゅっぱつ",
+    "arti": "keberangkatan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "図書館",
+    "kana": "としょかん",
+    "arti": "perpustakaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "美術館",
+    "kana": "びじゅつかん",
+    "arti": "museum seni",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "仲",
+    "kana": "なか",
+    "arti": "hubungan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "兄弟",
+    "kana": "きょうだい",
+    "arti": "saudara laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "とても",
+    "kana": "とても",
+    "arti": "sangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "けんか",
+    "kana": "けんか",
+    "arti": "pertengkaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "取り出した",
+    "kana": "とりだした",
+    "arti": "mengeluarkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "鍵",
+    "kana": "かぎ",
+    "arti": "kunci",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ロボット",
+    "kana": "ろぼっと",
+    "arti": "robot",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "家",
+    "kana": "いえ",
+    "arti": "rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "一度に",
+    "kana": "いちどに",
+    "arti": "sekali waktu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "こと",
+    "kana": "こと",
+    "arti": "hal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "言われても",
+    "kana": "いわれても",
+    "arti": "meskipun dikatakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "アクセス",
+    "kana": "あくせす",
+    "arti": "akses",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "空港",
+    "kana": "くうこう",
+    "arti": "bandara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ホテル",
+    "kana": "ほてる",
+    "arti": "hotel",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あきらめた",
+    "kana": "あきらめた",
+    "arti": "menyerah",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "チケット",
+    "kana": "ちけっと",
+    "arti": "tiket",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "高い",
+    "kana": "たかい",
+    "arti": "mahal",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "買えない",
+    "kana": "かえない",
+    "arti": "tidak bisa membeli",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "うろうろ",
+    "kana": "うろうろ",
+    "arti": "berkeliling tanpa tujuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "タクシー",
+    "kana": "たくしー",
+    "arti": "taksi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "乗り場",
+    "kana": "のりば",
+    "arti": "tempat naik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "売り切れました",
+    "kana": "うりきれました",
+    "arti": "terjual habis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "商品",
+    "kana": "しょうひん",
+    "arti": "produk/barang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "カーブして",
+    "kana": "かーぶして",
+    "arti": "berbelok, berkurva",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "道",
+    "kana": "みち",
+    "arti": "jalan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "退屈",
+    "kana": "たいくつ",
+    "arti": "membosankan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "さっそく",
+    "kana": "さっそく",
+    "arti": "segera",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "テレビ",
+    "kana": "てれび",
+    "arti": "televisi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ゆるい",
+    "kana": "ゆるい",
+    "arti": "longgar",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ズボン",
+    "kana": "ずぼん",
+    "arti": "celana",
+    "kategori": "kata benda"
+  }
+]
