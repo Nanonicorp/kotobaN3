@@ -1,0 +1,248 @@
+[
+  {
+    "kotoba": "每日",
+    "kana": "まいにち",
+    "arti": "setiap hari",
+    "kategori": "keterangan waktu"
+  },
+  {
+    "kotoba": "復習",
+    "kana": "ふくしゅう",
+    "arti": "ulangan, mengulang pelajaran",
+    "kategori": "kata benda / suru-verb"
+  },
+  {
+    "kotoba": "ようになる",
+    "kana": "ようになる",
+    "arti": "menjadi bisa, mulai bisa",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "小型",
+    "kana": "こがた",
+    "arti": "berukuran kecil, tipe kecil",
+    "kategori": "kata benda / kata sifat-na"
+  },
+  {
+    "kotoba": "ラジオ",
+    "kana": "ラジオ",
+    "arti": "radio",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "欲しい",
+    "kana": "ほしい",
+    "arti": "ingin (untuk benda)",
+    "kategori": "kata sifat-i"
+  },
+  {
+    "kotoba": "理由",
+    "kana": "りゆう",
+    "arti": "alasan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "疑う",
+    "kana": "うたがう",
+    "arti": "mencurigai, meragukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "いけない",
+    "kana": "いけない",
+    "arti": "tidak boleh, dilarang",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "先",
+    "kana": "さき",
+    "arti": "depan, arah depan, selanjutnya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "細い",
+    "kana": "ほそい",
+    "arti": "sempit, ramping",
+    "kategori": "kata sifat-i"
+  },
+  {
+    "kotoba": "退院",
+    "kana": "たいいん",
+    "arti": "keluar dari rumah sakit",
+    "kategori": "kata benda / suru-verb"
+  },
+  {
+    "kotoba": "そうです",
+    "kana": "そうです",
+    "arti": "katanya, terdengar seperti",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "夫婦",
+    "kana": "ふうふ",
+    "arti": "suami istri, pasangan menikah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "参加する",
+    "kana": "さんかする",
+    "arti": "ikut serta, berpartisipasi",
+    "kategori": "suru-verb"
+  },
+  {
+    "kotoba": "留守",
+    "kana": "るす",
+    "arti": "tidak di rumah, sedang pergi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "間",
+    "kana": "あいだ",
+    "arti": "selama, dalam waktu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "誰か",
+    "kana": "だれか",
+    "arti": "seseorang",
+    "kategori": "kata ganti orang"
+  },
+  {
+    "kotoba": "来る",
+    "kana": "くる",
+    "arti": "datang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ようだ",
+    "kana": "ようだ",
+    "arti": "sepertinya, tampaknya",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "高価",
+    "kana": "こうか",
+    "arti": "mahal, bernilai tinggi",
+    "kategori": "kata benda / kata sifat-na"
+  },
+  {
+    "kotoba": "花瓶",
+    "kana": "かびん",
+    "arti": "vas bunga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "彼",
+    "kana": "かれ",
+    "arti": "dia (laki-laki)",
+    "kategori": "kata ganti orang"
+  },
+  {
+    "kotoba": "短気",
+    "kana": "たんき",
+    "arti": "pemarah, tidak sabaran",
+    "kategori": "kata benda / kata sifat-na"
+  },
+  {
+    "kotoba": "心配",
+    "kana": "しんぱい",
+    "arti": "khawatir",
+    "kategori": "kata benda / suru-verb"
+  },
+  {
+    "kotoba": "次",
+    "kana": "つぎ",
+    "arti": "berikutnya, selanjutnya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "焼く",
+    "kana": "やく",
+    "arti": "memanggang, membakar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "必ず",
+    "kana": "かならず",
+    "arti": "pasti, tanpa gagal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "降る",
+    "kana": "ふる",
+    "arti": "turun (hujan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "近い",
+    "kana": "ちかい",
+    "arti": "dekat",
+    "kategori": "kata sifat-i"
+  },
+  {
+    "kotoba": "傘",
+    "kana": "かさ",
+    "arti": "payung",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大丈夫",
+    "kana": "だいじょうぶ",
+    "arti": "tidak masalah, aman",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "制服",
+    "kana": "せいふく",
+    "arti": "seragam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ありません",
+    "kana": "ありません",
+    "arti": "tidak ada (untuk benda tak hidup)",
+    "kategori": "ungkapan / kata kerja"
+  },
+  {
+    "kotoba": "探す",
+    "kana": "さがす",
+    "arti": "mencari",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "薬局",
+    "kana": "やっきょく",
+    "arti": "apotek, toko obat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "見つかる",
+    "kana": "みつかる",
+    "arti": "ditemukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "平気",
+    "kana": "へいき",
+    "arti": "baik-baik saja, tidak masalah",
+    "kategori": "kata sifat-na"
+  },
+  {
+    "kotoba": "安全",
+    "kana": "あんぜん",
+    "arti": "aman",
+    "kategori": "kata sifat-na"
+  },
+  {
+    "kotoba": "正常",
+    "kana": "せいじょう",
+    "arti": "normal, normalitas",
+    "kategori": "kata sifat-na"
+  },
+  {
+    "kotoba": "十分",
+    "kana": "じゅうぶん",
+    "arti": "cukup",
+    "kategori": "kata sifat-na"
+  }
+]
