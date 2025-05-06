@@ -1,0 +1,386 @@
+[
+  {
+    "kotoba": "疲れている",
+    "kana": "つかれている",
+    "arti": "Lelah",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "作る",
+    "kana": "つくる",
+    "arti": "Membuat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "外食",
+    "kana": "がいしょく",
+    "arti": "Makan di luar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ゆうべ",
+    "kana": "ゆうべ",
+    "arti": "Tadi malam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寝る",
+    "kana": "ねる",
+    "arti": "Tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "眠くて",
+    "kana": "ねむくて",
+    "arti": "Mengantuk",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "しゃっくり",
+    "kana": "しゃっくり",
+    "arti": "Hiccup",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "くしゃみ",
+    "kana": "くしゃみ",
+    "arti": "Bersin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "せき",
+    "kana": "せき",
+    "arti": "Batuk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あくび",
+    "kana": "あくび",
+    "arti": "Menguap",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "国",
+    "kana": "くに",
+    "arti": "Negara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "社会問題",
+    "kana": "しゃかいもんだい",
+    "arti": "Masalah sosial",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テーマ",
+    "kana": "テーマ",
+    "arti": "Tema",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "季節",
+    "kana": "きせつ",
+    "arti": "Musim",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "昼",
+    "kana": "ひる",
+    "arti": "Siang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "夜",
+    "kana": "よる",
+    "arti": "Malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "差",
+    "kana": "さ",
+    "arti": "Perbedaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "はっきり",
+    "kana": "はっきり",
+    "arti": "Jelas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "しっかり",
+    "kana": "しっかり",
+    "arti": "Teguh, dengan baik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "びったり",
+    "kana": "びったり",
+    "arti": "Tepat, pas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "うっかり",
+    "kana": "うっかり",
+    "arti": "Lalai, ceroboh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "空席",
+    "kana": "くうせき",
+    "arti": "Kursi kosong",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "予約",
+    "kana": "よやく",
+    "arti": "Reservasi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "完全",
+    "kana": "かんぜん",
+    "arti": "Sempurna",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "無駄",
+    "kana": "むだ",
+    "arti": "Sia-sia",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "可能",
+    "kana": "かのう",
+    "arti": "Kemungkinan, bisa",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "平等",
+    "kana": "びょうどう",
+    "arti": "Setara",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "パソコン",
+    "kana": "パソコン",
+    "arti": "Komputer",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "遅い",
+    "kana": "おそい",
+    "arti": "Lambat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "行動",
+    "kana": "こうどう",
+    "arti": "Tindakan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "活動",
+    "kana": "かつどう",
+    "arti": "Aktivitas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "動作",
+    "kana": "どうさ",
+    "arti": "Gerakan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "運動",
+    "kana": "うんどう",
+    "arti": "Olahraga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "来週",
+    "kana": "らいしゅう",
+    "arti": "Minggu depan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "申し込み",
+    "kana": "もうしこみ",
+    "arti": "Pendaftaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "期限",
+    "kana": "きげん",
+    "arti": "Batas waktu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "期間",
+    "kana": "きかん",
+    "arti": "Periode",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "日程",
+    "kana": "にってい",
+    "arti": "Jadwal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "日常",
+    "kana": "にちじょう",
+    "arti": "Kehidupan sehari-hari",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "生活",
+    "kana": "せいかつ",
+    "arti": "Kehidupan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "料理",
+    "kana": "りょうり",
+    "arti": "Masakan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "恋しく",
+    "kana": "こいしく",
+    "arti": "Merindukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "夫",
+    "kana": "おっと",
+    "arti": "Suami",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "年間",
+    "kana": "ねんかん",
+    "arti": "Tahun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "付き合って",
+    "kana": "つきあって",
+    "arti": "Berpacaran",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "サイズ",
+    "kana": "サイズ",
+    "arti": "Ukuran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "重さ",
+    "kana": "おもさ",
+    "arti": "Berat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "形",
+    "kana": "かたち",
+    "arti": "Bentuk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大きさ",
+    "kana": "おおきさ",
+    "arti": "Ukuran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "暗記",
+    "kana": "あんき",
+    "arti": "Menghafal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "書いて",
+    "kana": "かいて",
+    "arti": "Menulis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "覚えて",
+    "kana": "おぼえて",
+    "arti": "Mengingat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "伊藤さん",
+    "kana": "いとうさん",
+    "arti": "Nama orang (Ito)",
+    "kategori": "nama"
+  },
+  {
+    "kotoba": "魚",
+    "kana": "さかな",
+    "arti": "Ikan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "得意",
+    "kana": "とくい",
+    "arti": "Ahli, terampil",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "上手な",
+    "kana": "じょうずな",
+    "arti": "Terampil",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "欠点",
+    "kana": "けってん",
+    "arti": "Kekurangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "誰",
+    "kana": "だれ",
+    "arti": "Siapa",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "大声で",
+    "kana": "おおごえで",
+    "arti": "Dengan suara keras",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "怒らないで",
+    "kana": "おこらないで",
+    "arti": "Jangan marah",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "強く",
+    "kana": "つよく",
+    "arti": "Keras",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "押さないで",
+    "kana": "おさないで",
+    "arti": "Jangan dorong",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "食べないで",
+    "kana": "たべないで",
+    "arti": "Jangan makan",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "歩かないで",
+    "kana": "あるかないで",
+    "arti": "Jangan berjalan",
+    "kategori": "frasa"
+  }
+]
