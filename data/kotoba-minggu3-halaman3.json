@@ -1,0 +1,302 @@
+[
+  {
+    "kotoba": "歌手",
+    "kana": "かしゅ",
+    "arti": "Penyanyi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "青山ケイ",
+    "kana": "あおやまけい",
+    "arti": "Nama orang (Aoyama Kei)",
+    "kategori": "nama orang"
+  },
+  {
+    "kotoba": "アジア",
+    "kana": "アジア",
+    "arti": "Asia",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "コンサート",
+    "kana": "コンサート",
+    "arti": "Konser",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "行う",
+    "kana": "おこなう",
+    "arti": "Melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "読書",
+    "kana": "どくしょ",
+    "arti": "Membaca",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "習慣",
+    "kana": "しゅうかん",
+    "arti": "Kebiasaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "調査",
+    "kana": "ちょうさ",
+    "arti": "Survei",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "学年",
+    "kana": "がくねん",
+    "arti": "Tingkatan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "上がる",
+    "kana": "あがる",
+    "arti": "Naik",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "減る",
+    "kana": "へる",
+    "arti": "Berkurang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "誘う",
+    "kana": "さそう",
+    "arti": "Mengajak",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "夏休み",
+    "kana": "なつやすみ",
+    "arti": "Liburan musim panas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "行く",
+    "kana": "いく",
+    "arti": "Pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "家族",
+    "kana": "かぞく",
+    "arti": "Keluarga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "楽しみ",
+    "kana": "たのしみ",
+    "arti": "Kesenangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "不動産屋",
+    "kana": "ふどうさんや",
+    "arti": "Agen real estat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "店員",
+    "kana": "てんいん",
+    "arti": "Pegawai toko",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "アパート",
+    "kana": "アパート",
+    "arti": "Apartemen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "歩く",
+    "kana": "あるく",
+    "arti": "Berjalan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "分",
+    "kana": "ふん",
+    "arti": "Menit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "広い",
+    "kana": "ひろい",
+    "arti": "Luas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "きれい",
+    "kana": "きれい",
+    "arti": "Bersih, indah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "遠い",
+    "kana": "とおい",
+    "arti": "Jauh",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "慌てる",
+    "kana": "あわてる",
+    "arti": "Panik",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "喫茶店",
+    "kana": "きっさてん",
+    "arti": "Kedai kopi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "入る",
+    "kana": "はいる",
+    "arti": "Masuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "名前",
+    "kana": "なまえ",
+    "arti": "Nama",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "診察室",
+    "kana": "しんさつしつ",
+    "arti": "Ruang pemeriksaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "待つ",
+    "kana": "まつ",
+    "arti": "Menunggu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "遅れる",
+    "kana": "おくれる",
+    "arti": "Terlambat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "授業",
+    "kana": "じゅぎょう",
+    "arti": "Pelajaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テキスト",
+    "kana": "テキスト",
+    "arti": "Teks",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "読む",
+    "kana": "よむ",
+    "arti": "Membaca",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "風",
+    "kana": "かぜ",
+    "arti": "Angin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "音",
+    "kana": "おと",
+    "arti": "Suara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "気になる",
+    "kana": "きになる",
+    "arti": "Khawatir",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "眠る",
+    "kana": "ねむる",
+    "arti": "Tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "夢",
+    "kana": "ゆめ",
+    "arti": "Mimpi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ケーキ屋",
+    "kana": "ケーキや",
+    "arti": "Toko kue",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "開く",
+    "kana": "ひらく",
+    "arti": "Membuka",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "やむ",
+    "kana": "やむ",
+    "arti": "Berhenti (hujan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "先輩",
+    "kana": "せんぱい",
+    "arti": "Senior",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "カフェ",
+    "kana": "カフェ",
+    "arti": "Kafe",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "長さ",
+    "kana": "ながさ",
+    "arti": "Panjang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "短い",
+    "kana": "みじかい",
+    "arti": "Pendek",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "美容院",
+    "kana": "びよういん",
+    "arti": "Salon kecantikan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "新聞",
+    "kana": "しんぶん",
+    "arti": "Koran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "住む",
+    "kana": "すむ",
+    "arti": "Tinggal",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "夜景",
+    "kana": "やけい",
+    "arti": "Pemandangan malam",
+    "kategori": "kata benda"
+  }
+]
