@@ -1,0 +1,194 @@
+[
+  {
+    "kotoba": "がんばる",
+    "kana": "がんばる",
+    "arti": "Berusaha",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "がっかり",
+    "kana": "がっかり",
+    "arti": "Kecewa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大事",
+    "kana": "だいじ",
+    "arti": "Penting",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "お客様",
+    "kana": "おきゃくさま",
+    "arti": "Pelanggan, tamu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "食事",
+    "kana": "しょくじ",
+    "arti": "Makan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "飲む",
+    "kana": "のむ",
+    "arti": "Minum",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "酔う",
+    "kana": "よう",
+    "arti": "Mabuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "スイッチ",
+    "kana": "スイッチ",
+    "arti": "Saklar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "動く",
+    "kana": "うごく",
+    "arti": "Bergerak",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "使える",
+    "kana": "つかえる",
+    "arti": "Bisa digunakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "かぜ",
+    "kana": "かぜ",
+    "arti": "Flu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ひく",
+    "kana": "ひく",
+    "arti": "Sakit",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "熱",
+    "kana": "ねつ",
+    "arti": "Demam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ハワイ",
+    "kana": "ハワイ",
+    "arti": "Hawaii",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "スキューバダイビング",
+    "kana": "スキューバダイビング",
+    "arti": "Scuba diving",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "する",
+    "kana": "する",
+    "arti": "Melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "数字",
+    "kana": "すうじ",
+    "arti": "Angka",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "苦手",
+    "kana": "にがて",
+    "arti": "Tidak suka, kesulitan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "頭痛",
+    "kana": "ずつう",
+    "arti": "Sakit kepala",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "先生",
+    "kana": "せんせい",
+    "arti": "Guru",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "勉強",
+    "kana": "べんきょう",
+    "arti": "Belajar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "シャワー",
+    "kana": "シャワー",
+    "arti": "Mandi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "でる",
+    "kana": "でる",
+    "arti": "Keluar, menjawab",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "今年",
+    "kana": "ことし",
+    "arti": "Tahun ini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "冬",
+    "kana": "ふゆ",
+    "arti": "Musim dingin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "寒い",
+    "kana": "さむい",
+    "arti": "Dingin",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "買う",
+    "kana": "かう",
+    "arti": "Membeli",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "英語",
+    "kana": "えいご",
+    "arti": "Bahasa Inggris",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お祭り",
+    "kana": "おまつり",
+    "arti": "Festival",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "人",
+    "kana": "ひと",
+    "arti": "Orang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "フランス",
+    "kana": "フランス",
+    "arti": "Prancis",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "旅行者",
+    "kana": "りょこうしゃ",
+    "arti": "Wisatawan",
+    "kategori": "kata benda"
+  }
+]
