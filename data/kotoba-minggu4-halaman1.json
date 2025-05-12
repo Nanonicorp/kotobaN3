@@ -1,0 +1,158 @@
+[
+  {
+    "kotoba": "いる",
+    "kana": "いる",
+    "arti": "Ada (untuk makhluk hidup)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "映画",
+    "kana": "えいが",
+    "arti": "Film",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買い物",
+    "kana": "かいもの",
+    "arti": "Belanja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "乗る",
+    "kana": "のる",
+    "arti": "Naik",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "小さい",
+    "kana": "ちいさい",
+    "arti": "Kecil",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "泳ぐ",
+    "kana": "およぐ",
+    "arti": "Berenang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "電気",
+    "kana": "でんき",
+    "arti": "Listrik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "消す",
+    "kana": "けす",
+    "arti": "Mematikan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "教室",
+    "kana": "きょうしつ",
+    "arti": "Kelas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "貼る",
+    "kana": "はる",
+    "arti": "Menempelkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "出かける",
+    "kana": "でかける",
+    "arti": "Pergi keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "牛肉",
+    "kana": "ぎゅうにく",
+    "arti": "Daging sapi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "登る",
+    "kana": "のぼる",
+    "arti": "Mendaki",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "富士山",
+    "kana": "ふじさん",
+    "arti": "Gunung Fuji",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "子供",
+    "kana": "こども",
+    "arti": "Anak-anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "花",
+    "kana": "はな",
+    "arti": "Bunga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "明るい",
+    "kana": "あかるい",
+    "arti": "Terang",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "午後",
+    "kana": "ごご",
+    "arti": "Sore",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "毎月",
+    "kana": "まいげつ",
+    "arti": "Setiap bulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "起きる",
+    "kana": "おきる",
+    "arti": "Bangun",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "容器",
+    "kana": "ようき",
+    "arti": "Wadah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "複数",
+    "kana": "ふくすう",
+    "arti": "Banyak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "件",
+    "kana": "けん",
+    "arti": "Perkara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "横断",
+    "kana": "おうだん",
+    "arti": "Menyeberang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "目",
+    "kana": "め",
+    "arti": "Mata",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "一般的",
+    "kana": "いっぱんてき",
+    "arti": "Umum",
+    "kategori": "kata sifat"
+  }
+]
