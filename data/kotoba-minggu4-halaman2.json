@@ -1,0 +1,152 @@
+[
+  {
+    "kotoba": "会う",
+    "kana": "あう",
+    "arti": "Bertemu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "迷う",
+    "kana": "まよう",
+    "arti": "Bingung",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "騒ぐ",
+    "kana": "さわぐ",
+    "arti": "Berisik",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "飽きる",
+    "kana": "あきる",
+    "arti": "Bosan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "干す",
+    "kana": "ほす",
+    "arti": "Mengeringkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "レシピ",
+    "kana": "レシピ",
+    "arti": "Resep",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "登場",
+    "kana": "とうじょう",
+    "arti": "Muncul",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "希望",
+    "kana": "きぼう",
+    "arti": "Harapan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "吠える",
+    "kana": "ほえる",
+    "arti": "Menggonggong",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "しゃべる",
+    "kana": "しゃべる",
+    "arti": "Berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "飛び出す",
+    "kana": "とびだす",
+    "arti": "Melompat keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "追い越す",
+    "kana": "おいこす",
+    "arti": "Menyalip",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "取り替える",
+    "kana": "とりかえる",
+    "arti": "Menukar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "あげる",
+    "kana": "あげる",
+    "arti": "Memberi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "まあまあ",
+    "kana": "まあまあ",
+    "arti": "Cukup",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "スケジュール",
+    "kana": "スケジュール",
+    "arti": "Jadwal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "指定",
+    "kana": "してい",
+    "arti": "Penunjukan, pengaturan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "不安",
+    "kana": "ふあん",
+    "arti": "Cemas, khawatir",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "賛成",
+    "kana": "さんせい",
+    "arti": "Setuju",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大変",
+    "kana": "たいへん",
+    "arti": "Sangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "反対",
+    "kana": "はんたい",
+    "arti": "Penolakan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "最も",
+    "kana": "もっとも",
+    "arti": "Paling",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "非常に",
+    "kana": "ひじょうに",
+    "arti": "Sangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "やっぱり",
+    "kana": "やっぱり",
+    "arti": "Seperti yang dipikirkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "物語",
+    "kana": "ものがたり",
+    "arti": "Cerita",
+    "kategori": "kata benda"
+  }
+]
